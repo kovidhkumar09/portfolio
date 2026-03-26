@@ -9,7 +9,7 @@ import Footer from "../components/portfolio/Footer";
 
 // Replace these with your own images later
 const HERO_IMAGE = "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&q=80";
-const PORTRAIT_IMAGE = "src/WhatsApp Image 2026-03-26 at 12.41.11 AM.jpeg";
+const PORTRAIT_IMAGE = "/portrait.jpg";
 const PROJECT_IMAGES = [
   "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
   "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=800&q=80",
